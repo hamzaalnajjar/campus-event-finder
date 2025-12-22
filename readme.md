@@ -1,3 +1,7 @@
+Live Deployment (Vercel):
+https://campus-event-finder-taupe.vercel.app
+
+
 Campus Event Finder
 Project Description
 
