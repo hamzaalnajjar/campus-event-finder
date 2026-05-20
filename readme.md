@@ -5,6 +5,7 @@ https://campus-event-finder-taupe.vercel.app
 Campus Event Finder
 Project Description
 
+
 Campus Event Finder is a web application that helps students find upcoming campus events in one place. The application stores event information in a database and allows users to view events by category and date. This project was built to practice full-stack web development, including frontend design, backend APIs, and database integration.
 
 The backend uses a Node.js and Express server connected to a Supabase database. The frontend communicates with the backend using the Fetch API to retrieve event data.
